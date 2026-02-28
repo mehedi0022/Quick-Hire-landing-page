@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --font-Epilogue: "Epilogue", sans-serif;
+  --font-Clash_Display: var(--font-clash_display);
+  --font-Inter: "Inter", sans-serif;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-Inter);
+}

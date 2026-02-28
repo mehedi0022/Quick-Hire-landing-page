@@ -1,0 +1,27 @@
+{
+  "logo": {
+    "src": "/logo.png",
+    "alt": "QuickHire Logo",
+    "name": "QuickHire"
+  },
+  "links": [
+    {
+      "name": "Find Jobs",
+      "url": "/find-jobs"
+    },
+    {
+      "name": "Browse Companies",
+      "url": "/browse-companies"
+    }
+  ],
+  "cta": {
+    "primary": {
+      "name": "Sign Up",
+      "url": "/signup"
+    },
+    "secondary": {
+      "name": "Login",
+      "url": "/login"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Discover more than",
+  "color-title": "5000+ Jobs",
+  "description": "Great platform for the job seeker that searching for new career heights and passionate about startups.",
+  "popular": [
+    "Engineering",
+    "Design",
+    "Marketing",
+    "Sales",
+    "Customer Support"
+  ],
+  "location": [
+    "Florence, Italy",
+    "Rome, Italy",
+    "Milan, Italy",
+    "Naples, Italy",
+    "Turin, Italy"
+  ],
+  "heroImage": "/assets/hero-image.png"
+}
